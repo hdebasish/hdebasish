@@ -22,7 +22,6 @@ When I’m not coding, I’m probably tinkering with new ideas or learning somet
 
 ### 🌟 Let’s Connect!  
 Feel free to reach out if you’d like to collaborate, share ideas, or just chat:  
-- **LinkedIn**: www.linkedin.com/in/hdebasish 
 - **Email**: hdebasish@gmail.com  
 
 Thanks for stopping by! 😊  
