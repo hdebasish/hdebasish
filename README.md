@@ -30,6 +30,9 @@ I'm a **Full Stack Developer** who loves building impactful projects and solving
 - 📊 **TCS Calculator Chrome Extension**  
   Helps sellers reconcile **TCS credits** using GST Portal data for accurate return filings.
 
+- 💍 **Matrimonial Web Application**  
+  A clean, user-friendly matrimonial platform featuring advanced AI-powered search, secure authentication, and real-time chat for seamless matchmaking.
+
 - 🗺️ **Interactive Maps**  
   Developed for organizations to visualize geographic data interactively.
 
