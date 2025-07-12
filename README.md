@@ -1,27 +1,57 @@
 # 👋 Hi, I’m Debasish!
 
-Welcome to my corner of GitHub! 🎉 I'm a **Full Stack Developer** with a passion for building impactful projects and solving real-world problems through code. I've been freelancing, collaborating with individuals and organizations to bring ideas to life.
-
-## 🚀 What I Do  
-- **Full Stack Development**: My main playground is **React**, **Node.js**, and **MongoDB**, but I love experimenting with new tools and frameworks.  
-- **Android Development**: Yep, I’ve built Android apps using **Java** and **XML**—always striving for seamless and user-friendly designs.  
-- **AI Exploration**: Diving into the fascinating world of AI and **Large Language Models (LLM)** frameworks like **LangChain** to stay ahead in this ever-evolving tech field.
-
-## 🛠️ Projects I’m Proud Of  
-- **Accounting Software** *(In Progress)*: Designing a full-fledged tool for **GST return filing** tailored to online sellers and accountants.
-- **Order Management Chrome Extension**: Created for online sellers like Meesho to simplify their workflows.    
-- **BusyBuy**: An e-commerce app that makes online shopping a breeze.  
-- **Postaway**: A social media API that’s fully equipped for the modern web.  
-- **IMDb Clone**: Displays movie info because who doesn’t love movies? 🎬
-- **Interactive Maps**: Built for an organization to visualize and interact with data in new ways.  
-
-## 💡 A Bit More About Me  
-When I’m not coding, I’m probably tinkering with new ideas or learning something cool. I’m always up for collaboration and enjoy brainstorming innovative solutions.
+Welcome to my GitHub! 🎉  
+I'm a **Full Stack Developer** who loves building impactful projects and solving real-world problems through code. I’ve been freelancing and collaborating with individuals and organizations to bring their ideas to life.
 
 ---
 
-### 🌟 Let’s Connect!  
-Feel free to reach out if you’d like to collaborate, share ideas, or just chat:  
-- **Email**: hdebasish@gmail.com  
+## 🚀 What I Do
 
-Thanks for stopping by! 😊  
+- 🔧 **Full Stack Development**  
+  Core stack: **React**, **Node.js**, **MongoDB**  
+  Always exploring new tools and frameworks to stay current.
+
+- 📱 **Android Development**  
+  Building native apps using **Java** and **XML** with a focus on intuitive user experiences.
+
+- 🤖 **AI & LLM Exploration**  
+  Experimenting with **Large Language Models (LLMs)** and frameworks like **LangChain** to push the boundaries of intelligent apps.
+
+---
+
+## 🛠️ Projects I'm Working On / Proud Of
+
+- 🧾 **Accounting Software**  
+  Full-fledged GST return filing system tailored for online sellers and accountants.
+
+- 🛒 **Order Management Chrome Extension**  
+  Designed to simplify daily operations for online sellers (e.g., Meesho sellers).
+
+- 📊 **TCS Calculator Chrome Extension**  
+  Helps sellers reconcile **TCS credits** using GST Portal data for accurate return filings.
+
+- 🗺️ **Interactive Maps**  
+  Developed for organizations to visualize geographic data interactively.
+
+- 🌐 **Local Search Engine (Nepal)**  
+  A regional search platform for discovering local businesses and services in Nepal.
+
+- 🧩 **Industry-Specific CRM**  
+  A flexible CRM system with customizable lead tracking modules, tailored for different industries.
+
+---
+
+## 💡 A Little More About Me
+
+When I’m not coding, I’m usually experimenting with new ideas, diving into tech trends, or learning something new. I’m passionate about building solutions that make a difference and love collaborating on meaningful projects.
+
+---
+
+## 🌟 Let’s Connect
+
+📧 **Email**: [hdebasish@gmail.com](mailto:hdebasish@gmail.com)  
+💬 Open to collaboration, ideas, or just a friendly chat!
+
+---
+
+Thanks for stopping by! 😊
